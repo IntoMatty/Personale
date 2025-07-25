@@ -1,0 +1,43 @@
+#benvenuto {
+    font-weight: bold;
+    font-size: 75px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#benvenuto2 {
+    font-weight: bold;
+    font-size: 55px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#orsobianco {
+    margin: 20px auto;
+    border-radius: 150px;
+    border: 10px;
+    border-color: white;
+    border-style: solid;
+    display: block;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+#ciaotom {
+    display: block;
+    margin: 20px auto;
+}
+
+p {
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#ps {
+    font: small;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
